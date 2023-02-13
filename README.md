@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-### 🔭 I’m currently working as Sustem Administrator
-### 🌱 I’m currently learning Git/Github and Python
+### 🔭 Working as Sustem Administrator
+### 🌱 Currently learning Git/Github,  Python, Docker, Linux
 ### 👯 I’m looking to collaborate on any projects (for begginers so far :))
-### 😄 Pronouns: Victor
-### ⚡ Fun fact: People Blink Less When They Use Computers :D
